@@ -1,6 +1,6 @@
 # Case Study: Multi-Tenant Predictive Dialer Platform
 
-> **Note:** Code is proprietary to a former employer and is not included. This write-up describes my role and the engineering involved.
+> **Note:** Code is proprietary to an employer and is not included. This write-up describes my role and the engineering involved.
 
 ## Overview
 
